@@ -7,6 +7,9 @@ Steve’s parents wish to know how active was “DQ” traded as well as its per
 
 After determining the results of the yearly performance and how active the stocks were traded Steve was pleased with the code and the outcome results we were able to provide. As this code was for only a dozen stocks and two years of information, we are now looking to write a more complex code that can faster determine the same results but with a larger dataset.
 
+## Tools:
+Microsoft Excel, Microsoft VBA
+
 ## Results:
 
 Prior to refactoring the final code, we first started with the “All Stocks Analysis” macro to read Steve’s worksheet that included the years of 2017 and 2018. our code by writing a basic outline of how we wanted the program to flow. We inputted comments to stay organized all prior to coding so we can get a better understanding of how our flow will be formulated. Once all comments we inputted we executed the following code.
